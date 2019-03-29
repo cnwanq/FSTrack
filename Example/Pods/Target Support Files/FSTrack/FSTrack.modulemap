@@ -1,0 +1,6 @@
+framework module FSTrack {
+  umbrella header "FSTrack-umbrella.h"
+
+  export *
+  module * { export * }
+}
